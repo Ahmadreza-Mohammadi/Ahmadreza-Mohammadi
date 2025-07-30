@@ -6,7 +6,7 @@ Hi! I’m Ahmadreza Mohammadi, a web developer specializing in React and Next.js
 
 ## 👨‍💻 Skills
 
-- **Languages:** JavaScript, TypeScript  
+- **Languages:** JavaScript  
 - **Frameworks & Libraries:** React, Next.js, React Query, Redux, Zustand  
 - **UI Libraries & Styling:** Material-UI (MUI), Tailwind CSS  
 - **HTTP & Data Fetching:** REST API, Axios  
