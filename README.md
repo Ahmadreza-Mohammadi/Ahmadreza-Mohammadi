@@ -23,16 +23,14 @@ A client-side web application built with Next.js and React for the Pulse game we
 ### [maktab124-admin-vite](https://github.com/Ahmadreza-Mohammadi/maktab124-admin-vite)  
 An admin panel developed with React and TypeScript, using Vite as the build tool.
 
-### Open Source Contributions  
-- [learn-github-workflow-stark](https://github.com/Ahmadreza-Mohammadi/learn-github-workflow-stark)  
-- [first-contributions-1](https://github.com/Ahmadreza-Mohammadi/first-contributions-1)  
 
 ---
 
 ## 📫 Get in Touch
 
 - [GitHub](https://github.com/Ahmadreza-Mohammadi)  
-- [Email](mailto:your-email@example.com) *(replace with your email)*
+- [LinkedIn](https://www.linkedin.com/in/ahmadreza-mohammadi/)
+- [Email](ahmadrezamohammadi777@gmail.com)
 
 ---
 
